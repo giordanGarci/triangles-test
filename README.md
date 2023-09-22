@@ -1,6 +1,6 @@
 
 
-# Determinador de Tipos de Triângulo
+# Tipos de Triângulo
 
 Este é um projeto simples que permite aos usuários determinar o tipo de triângulo (equilátero, isósceles ou escaleno) com base nos comprimentos dos lados fornecidos. O projeto utiliza o padrão de design Strategy para implementar diferentes estratégias para cada tipo de triângulo.
 
