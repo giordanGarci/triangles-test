@@ -9,7 +9,7 @@ Este é um projeto simples que permite aos usuários determinar o tipo de triân
 - Permite ao usuário inserir os comprimentos dos lados de um triângulo.
 - Determina se o triângulo é equilátero, isósceles ou escaleno.
 - Verifica se os comprimentos dos lados são válidos para formar um triângulo.
-- Identifica triângulos degenerados, ou seja, triângulos que não podem existir geometricamente.
+- Identifica triângulos degenerados, aqueles que tem área zero e parece uma única linha.
 
 ## Pré-requisitos
 
